@@ -115,3 +115,6 @@ Expand system to support multiple appliances and natural language commands
 
 📝 Conclusion:
 The Speech Recognition System designed in this task successfully simulates the behavior of a voice-controlled embedded application. By substituting voice input with typed text commands, the project maintains its logical structure and serves as a solid foundation for real-world voice automation. This task builds strong fundamentals in serial communication, command parsing, and embedded decision-making—essential skills in modern IoT and automation systems.
+
+OUTPUT
+![Image](https://github.com/user-attachments/assets/e1eec093-18f2-4ffa-8af4-3bb45236646e)
